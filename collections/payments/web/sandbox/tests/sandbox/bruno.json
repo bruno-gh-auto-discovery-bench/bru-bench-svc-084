@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "pricing-sandbox-2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
